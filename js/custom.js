@@ -69,15 +69,4 @@ $('.blog-slider').slick({
       }
     ]
   });
-
-  // mix it up 
-  var containerEl = document.querySelector('.project-main');
-
-  var mixer = mixitup(containerEl);
-  
-  //  yt player 
-  jQuery(function(){
-    jQuery(".player").YTPlayer();
-  });
-
 });

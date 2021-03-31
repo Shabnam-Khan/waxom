@@ -324,7 +324,7 @@ body{
 }
 .load-btn{
     padding-top: 24px;
-    padding-bottom: 84px;
+    padding-bottom: 70px;
 }
 .load-btn a{
     font-family: 'Raleway', sans-serif;
@@ -644,24 +644,3 @@ body{
     color: #a48d72;
 }
 
-/* mixitup */
-.buttons button{
-    margin: 0 5px;
-    padding: 10px 17px;
-    border: 1px solid #ebebeb;
-    background-color: transparent;
-    color: #8c8c8c;
-    font-size: 14px;
-    font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
-    text-transform: capitalize;
-}
-.buttons button{
-    background-color: #998675;
-    color: white;
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    -ms-border-radius: 3px;
-    -o-border-radius: 3px;
-}

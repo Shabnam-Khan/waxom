@@ -214,7 +214,7 @@
         text-align: left!important;
     }
 }
-@media(width:575px){
+@media(min-width:500px) and (max-width:575px){
     .service-item p{
         padding: 0 60px;
         padding-top: 10px;
